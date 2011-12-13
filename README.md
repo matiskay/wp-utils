@@ -18,3 +18,7 @@ The script will create a the project in `$HOME/projects/myawesomeprojectname`
 and create a symbolic link to `/var/www/wordpress/myawsomeprojectname`.
 
 ### wp-dbmigration.sh
+
+Currently `wp-dbmigration.sh` only provides the queries to migrate wordpress from one domain to the other one.
+
+If you are interested in more sql you should check [wordpress sql queries](http://www.onextrapixel.com/2010/01/30/13-useful-wordpress-sql-queries-you-wish-you-knew-earlier/)
